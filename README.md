@@ -7,7 +7,7 @@ ___
 ___
 
 ## How to contribute
-Just open a PR with the fix and add @hbelmiro (me) as a reviewer.
+Just open a PR with the fix and add @mcruzdev (me) as a reviewer.
 
 If you prefer to validate your solution before sending the PR, [send me a message](https://quarkusio.zulipchat.com/#user/621866) telling me about your plans.
 
