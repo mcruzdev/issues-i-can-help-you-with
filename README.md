@@ -3,7 +3,7 @@ This is a repository for issues I'm involved with that are good for people who w
 
 ___
 
-> This repository was inspired in [hbelmiro/issues-i-can-help-you-with](https://github.com/hbelmiro/issues-i-can-help-you-with) repository.
+> This repository was inspired in [mcruzdev/issues-i-can-help-you-with](https://github.com/mcruzdev/issues-i-can-help-you-with) repository.
 ___
 
 ## How to contribute
