@@ -28,3 +28,7 @@ These issues are good for people who have never contributed to the project the i
 - [ ] [Reorganize documentation](https://github.com/quarkiverse/quarkus-dapr/issues/212)
 
 - [ ] [Add Codestarts using state store components with DevServices](https://github.com/quarkiverse/quarkus-dapr/issues/211)
+
+### Project: [quarkiverse/quarkus-roq](https://github.com/quarkiverse/quarkus-roq)
+
+- [ ] [Use new configurations (Vertx and Qute configurations](https://github.com/quarkiverse/quarkus-roq/issues/415)
