@@ -31,4 +31,9 @@ These issues are good for people who have never contributed to the project the i
 
 ### Project: [quarkiverse/quarkus-roq](https://github.com/quarkiverse/quarkus-roq)
 
-- [ ] [Use new configurations (Vertx and Qute configurations](https://github.com/quarkiverse/quarkus-roq/issues/415)
+- [x] [Use new configurations (Vertx and Qute configurations)](https://github.com/quarkiverse/quarkus-roq/issues/415)
+- [ ] [Update quarkus-roq documentation with merged markdown extension](https://github.com/quarkiverse/quarkus-roq/issues/417)
+
+### Project: [quarkus-qute-web](https://github.com/quarkiverse/quarkus-qute-web)
+
+- [ ] [Add a Github Action to preview the documentation](https://github.com/quarkiverse/quarkus-qute-web/issues/160)
