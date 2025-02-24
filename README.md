@@ -37,3 +37,7 @@ These issues are good for people who have never contributed to the project the i
 ### Project: [quarkus-qute-web](https://github.com/quarkiverse/quarkus-qute-web)
 
 - [ ] [Add a Github Action to preview the documentation](https://github.com/quarkiverse/quarkus-qute-web/issues/160)
+
+### Project: [quarkus-wiremock](https://github.com/quarkiverse/quarkus-wiremock)
+
+- [ ] (Generate file mappings through build item to allow integration)[https://github.com/quarkiverse/quarkus-wiremock/issues/195]
