@@ -40,4 +40,4 @@ These issues are good for people who have never contributed to the project the i
 
 ### Project: [quarkus-wiremock](https://github.com/quarkiverse/quarkus-wiremock)
 
-- [ ] (Generate file mappings through build item to allow integration)[https://github.com/quarkiverse/quarkus-wiremock/issues/195]
+- [ ] [Generate file mappings through build item to allow integration](https://github.com/quarkiverse/quarkus-wiremock/issues/195)
