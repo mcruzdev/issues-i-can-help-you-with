@@ -21,7 +21,7 @@ These issues are good for people who have never contributed to the project the i
 - [x] [Check if hibernate-validator capability is present when using `use-bean-validation`](https://github.com/quarkiverse/quarkus-openapi-generator/issues/796)
 
 - [x] [Use @ConfigMapping annotation instead legacy @ConfigRoot](https://github.com/quarkiverse/quarkus-openapi-generator/issues/793)
-
+- [ ] [Add codestart to server extension](https://github.com/quarkiverse/quarkus-openapi-generator/issues/1021)
 
 ### Project: [quarkiverse/quarkus-dapr](https://github.com/quarkiverse/quarkus-dapr)
 
