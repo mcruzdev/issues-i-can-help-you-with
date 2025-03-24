@@ -28,7 +28,7 @@ These issues are good for people who have never contributed to the project the i
 
 - [ ] [Reorganize documentation](https://github.com/quarkiverse/quarkus-dapr/issues/212)
 
-- [ ] [Add Codestarts using state store components with DevServices](https://github.com/quarkiverse/quarkus-dapr/issues/211)
+- [ ] [Add Codestarts using state store components with DevServices](https://github.com/quarkiverse/quarkus-dapr/issues/211) (@jghagemann)
 
 ### Project: [quarkiverse/quarkus-roq](https://github.com/quarkiverse/quarkus-roq)
 
@@ -37,7 +37,7 @@ These issues are good for people who have never contributed to the project the i
 
 ### Project: [quarkus-qute-web](https://github.com/quarkiverse/quarkus-qute-web)
 
-- [ ] [Add a Github Action to preview the documentation](https://github.com/quarkiverse/quarkus-qute-web/issues/160)
+- [ ] [Add a Github Action to preview the documentation](https://github.com/quarkiverse/quarkus-qute-web/issues/160) (@vladprado)
 
 ### Project: [quarkus-wiremock](https://github.com/quarkiverse/quarkus-wiremock)
 
