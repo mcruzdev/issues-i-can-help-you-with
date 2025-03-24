@@ -19,10 +19,10 @@ These issues are good for people who have never contributed to the project the i
 
 
 - [x] [Check if hibernate-validator capability is present when using `use-bean-validation`](https://github.com/quarkiverse/quarkus-openapi-generator/issues/796)
-
 - [x] [Use @ConfigMapping annotation instead legacy @ConfigRoot](https://github.com/quarkiverse/quarkus-openapi-generator/issues/793)
 - [x] [Add codestart to server extension](https://github.com/quarkiverse/quarkus-openapi-generator/issues/1021)
 - [x] [Create an issue template](https://github.com/quarkiverse/quarkus-openapi-generator/issues/1048)
+- [ ] [Quarkus OpenAPI Generator Moqu is not watching file changes](https://github.com/quarkiverse/quarkus-openapi-generator/issues/1071)
 
 ### Project: [quarkiverse/quarkus-dapr](https://github.com/quarkiverse/quarkus-dapr)
 
