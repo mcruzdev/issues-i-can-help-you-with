@@ -22,13 +22,13 @@ These issues are good for people who have never contributed to the project the i
 - [x] [Use @ConfigMapping annotation instead legacy @ConfigRoot](https://github.com/quarkiverse/quarkus-openapi-generator/issues/793)
 - [x] [Add codestart to server extension](https://github.com/quarkiverse/quarkus-openapi-generator/issues/1021)
 - [x] [Create an issue template](https://github.com/quarkiverse/quarkus-openapi-generator/issues/1048)
-- [ ] [Quarkus OpenAPI Generator Moqu is not watching file changes](https://github.com/quarkiverse/quarkus-openapi-generator/issues/1071)
+- [ ] [Quarkus OpenAPI Generator Moqu is not watching file changes](https://github.com/quarkiverse/quarkus-openapi-generator/issues/1071) work in progress
 
 ### Project: [quarkiverse/quarkus-dapr](https://github.com/quarkiverse/quarkus-dapr)
 
 - [ ] [Reorganize documentation](https://github.com/quarkiverse/quarkus-dapr/issues/212)
 
-- [ ] [Add Codestarts using state store components with DevServices](https://github.com/quarkiverse/quarkus-dapr/issues/211) (@jghagemann)
+- [x] [Add Codestarts using state store components with DevServices](https://github.com/quarkiverse/quarkus-dapr/issues/211)
 
 ### Project: [quarkiverse/quarkus-roq](https://github.com/quarkiverse/quarkus-roq)
 
@@ -37,7 +37,7 @@ These issues are good for people who have never contributed to the project the i
 
 ### Project: [quarkus-qute-web](https://github.com/quarkiverse/quarkus-qute-web)
 
-- [ ] [Add a Github Action to preview the documentation](https://github.com/quarkiverse/quarkus-qute-web/issues/160) (@vladprado)
+- [x] [Add a Github Action to preview the documentation](https://github.com/quarkiverse/quarkus-qute-web/issues/160) work in progress
 
 ### Project: [quarkus-wiremock](https://github.com/quarkiverse/quarkus-wiremock)
 
