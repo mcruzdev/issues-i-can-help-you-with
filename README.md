@@ -11,6 +11,10 @@ Just open a PR with the fix and add @mcruzdev (me) as a reviewer.
 
 If you prefer to validate your solution before sending the PR, [send me a message](https://quarkusio.zulipchat.com/#user/621866) telling me about your plans.
 
+## Contribute with Quarkus universe
+
+If you speak Portuguese, see my [**playlist**](https://youtube.com/playlist?list=PLliq40xovJtpmSqXYGgjBOGCUwJW_5bj8&si=aHtE0VvD19mfkslv)!
+
 ## Good First Issues
 
 These issues are good for people who have never contributed to the project the issue relates to.
