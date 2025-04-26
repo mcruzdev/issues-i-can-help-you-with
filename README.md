@@ -15,6 +15,8 @@ If you prefer to validate your solution before sending the PR, [send me a messag
 
 If you speak Portuguese, see my [**playlist**](https://youtube.com/playlist?list=PLliq40xovJtpmSqXYGgjBOGCUwJW_5bj8&si=aHtE0VvD19mfkslv)!
 
+[![Contribua com o universo Quarkus](https://img.youtube.com/vi/zTQTgATEWAc/0.jpg)](https://www.youtube.com/watch?v=zTQTgATEWAc)
+
 ## Good First Issues
 
 These issues are good for people who have never contributed to the project the issue relates to.
