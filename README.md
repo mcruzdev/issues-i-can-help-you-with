@@ -40,6 +40,7 @@ These issues are good for people who have never contributed to the project the i
 
 - [x] [Use new configurations (Vertx and Qute configurations)](https://github.com/quarkiverse/quarkus-roq/issues/415)
 - [ ] [Update quarkus-roq documentation with merged markdown extension](https://github.com/quarkiverse/quarkus-roq/issues/417)
+- [ ] [Create a list of brands for social section](https://github.com/quarkiverse/quarkus-roq/issues/505)
 
 ### Project: [quarkus-qute-web](https://github.com/quarkiverse/quarkus-qute-web)
 
