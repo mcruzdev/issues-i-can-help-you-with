@@ -40,7 +40,7 @@ These issues are good for people who have never contributed to the project the i
 
 - [x] [Use new configurations (Vertx and Qute configurations)](https://github.com/quarkiverse/quarkus-roq/issues/415)
 - [ ] [Update quarkus-roq documentation with merged markdown extension](https://github.com/quarkiverse/quarkus-roq/issues/417)
-- [ ] [Create a list of brands for social section](https://github.com/quarkiverse/quarkus-roq/issues/505)
+- [X] [Create a list of brands for social section](https://github.com/quarkiverse/quarkus-roq/issues/505)
 
 ### Project: [quarkus-qute-web](https://github.com/quarkiverse/quarkus-qute-web)
 
@@ -57,5 +57,8 @@ These issues are good for people who have never contributed to the project the i
 ### Project: [quarkusclub/blog](https://githube.com/quarkusclub/blog)
 
 - [ ] [Add a check during pull requests to ensure there are no build failures](https://github.com/quarkusclub/blog/issues/4)
-- [ ] [Add preview when opening a pull request](https://github.com/quarkusclub/blog/issues/3)
+- [X] [Add preview when opening a pull request](https://github.com/quarkusclub/blog/issues/3)
+- [ ] [Tag all events for allowing the possibility to filter a event by subject](https://github.com/quarkusclub/quarkusclub.github.io/issues/47)
+- [ ] [Create a page about open source projects that need support](https://github.com/quarkusclub/quarkusclub.github.io/issues/24)
+- [ ] [Events are empty](https://github.com/quarkusclub/quarkusclub.github.io/issues/46)
 
