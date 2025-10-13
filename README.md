@@ -54,7 +54,7 @@ These issues are good for people who have never contributed to the project the i
 
 - [ ] [Quarkus BuildItems Documentation](https://github.com/quarkusio/quarkus/issues/47523)
 
-### Project: [quarkusclub/blog](https://githube.com/quarkusclub/blog)
+### Project: [quarkusclub/blog](https://github.com/quarkusclub/blog)
 
 - [ ] [Add a check during pull requests to ensure there are no build failures](https://github.com/quarkusclub/blog/issues/4)
 - [X] [Add preview when opening a pull request](https://github.com/quarkusclub/blog/issues/3)
