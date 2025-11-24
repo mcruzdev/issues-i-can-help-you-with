@@ -28,19 +28,18 @@ These issues are good for people who have never contributed to the project the i
 - [x] [Use @ConfigMapping annotation instead legacy @ConfigRoot](https://github.com/quarkiverse/quarkus-openapi-generator/issues/793)
 - [x] [Add codestart to server extension](https://github.com/quarkiverse/quarkus-openapi-generator/issues/1021)
 - [x] [Create an issue template](https://github.com/quarkiverse/quarkus-openapi-generator/issues/1048)
-- [ ] [Quarkus OpenAPI Generator Moqu is not watching file changes](https://github.com/quarkiverse/quarkus-openapi-generator/issues/1071) work in progress
+- [x] [Quarkus OpenAPI Generator Moqu is not watching file changes](https://github.com/quarkiverse/quarkus-openapi-generator/issues/1071)
 
 ### Project: [quarkiverse/quarkus-dapr](https://github.com/quarkiverse/quarkus-dapr)
 
 - [ ] [Reorganize documentation](https://github.com/quarkiverse/quarkus-dapr/issues/212)
-
 - [x] [Add Codestarts using state store components with DevServices](https://github.com/quarkiverse/quarkus-dapr/issues/211)
 
 ### Project: [quarkiverse/quarkus-roq](https://github.com/quarkiverse/quarkus-roq)
 
 - [x] [Use new configurations (Vertx and Qute configurations)](https://github.com/quarkiverse/quarkus-roq/issues/415)
-- [ ] [Update quarkus-roq documentation with merged markdown extension](https://github.com/quarkiverse/quarkus-roq/issues/417)
-- [X] [Create a list of brands for social section](https://github.com/quarkiverse/quarkus-roq/issues/505)
+- [x] [Update quarkus-roq documentation with merged markdown extension](https://github.com/quarkiverse/quarkus-roq/issues/417)
+- [x] [Create a list of brands for social section](https://github.com/quarkiverse/quarkus-roq/issues/505)
 
 ### Project: [quarkus-qute-web](https://github.com/quarkiverse/quarkus-qute-web)
 
@@ -56,9 +55,9 @@ These issues are good for people who have never contributed to the project the i
 
 ### Project: [quarkusclub/blog](https://github.com/quarkusclub/blog)
 
-- [ ] [Add a check during pull requests to ensure there are no build failures](https://github.com/quarkusclub/blog/issues/4)
-- [X] [Add preview when opening a pull request](https://github.com/quarkusclub/blog/issues/3)
+- [x] [Add a check during pull requests to ensure there are no build failures](https://github.com/quarkusclub/blog/issues/4)
+- [x] [Add preview when opening a pull request](https://github.com/quarkusclub/blog/issues/3)
 - [ ] [Tag all events for allowing the possibility to filter a event by subject](https://github.com/quarkusclub/quarkusclub.github.io/issues/47)
 - [ ] [Create a page about open source projects that need support](https://github.com/quarkusclub/quarkusclub.github.io/issues/24)
-- [ ] [Events are empty](https://github.com/quarkusclub/quarkusclub.github.io/issues/46)
+- [x] [Events are empty](https://github.com/quarkusclub/quarkusclub.github.io/issues/46)
 
